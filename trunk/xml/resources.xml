@@ -1,0 +1,178 @@
+<resources>
+	<images>
+		<image code="icon" name="icon.png" alpha="True"/>
+		<!--CURSOR-->
+		<image code="normal_cursor" name="normal_cursor.png" alpha="True"/>
+		<image code="over_cursor" name="over_cursor.png" alpha="True"/>
+		<!--BOTONES-->
+		<image code="normal_button1" name="menu/normal_button1.png" alpha="True"/>
+		<image code="normal_button2" name="menu/normal_button2.png" alpha="True"/>
+		<image code="normal_generic" name="menu/normal_generic.png" alpha="True"/>
+		<image code="normal_generic2" name="menu/normal_generic2.png" alpha="True"/>
+		<image code="selected_generic" name="menu/selected_generic.png" alpha="True"/>
+		<image code="selected_generic2" name="menu/selected_generic2.png" alpha="True"/>
+		<image code="selected_button1" name="menu/selected_button1.png" alpha="True"/>
+		<image code="selected_button2" name="menu/selected_button2.png" alpha="True"/>
+		<image code="normal_box" name="menu/normal_box.png" alpha="True"/>
+		<image code="selected_box" name="menu/selected_box.png" alpha="True"/>		
+		<image code="normal_box2" name="menu/normal_box2.png" alpha="True"/>
+		<image code="selected_box2" name="menu/selected_box2.png" alpha="True"/>
+		<image code="row_right" name="menu/row_right.png" alpha="True"/>
+		<image code="row_left" name="menu/row_left.png" alpha="True"/>
+		<image code="tiny_row_right" name="menu/tiny_row_right.png" alpha="True"/>
+		<image code="tiny_row_left" name="menu/tiny_row_left.png" alpha="True"/>
+		<image code="normal_check_box" name="menu/normal_check_box.png" alpha="True"/>
+		<image code="selected_check_box" name="menu/selected_check_box.png" alpha="True"/>
+		<image code="normal_circuit" name="menu/normal_circuit.png" alpha="True"/>
+		<image code="selected_circuit" name="menu/selected_circuit.png" alpha="True"/>
+		<image code="normal_box3" name="menu/normal_box3.png" alpha="True"/>
+		<image code="selected_box3" name="menu/selected_box3.png" alpha="True"/>
+		<image code="championship_box" name="menu/championship_box.png" alpha="True"/>
+		<!--ELEMENTOS DE MENÚ(FONDO, LOGOS, ICONOS, IMAGENES)-->
+		<image code="background_menu" name="menu/background_menu.png" alpha="True"/>
+		<image code="background_pause" name="menu/background_pause.png" alpha="True"/>
+		<image code="logo_menu" name="menu/logo_menu.png" alpha="True"/>
+		<image code="logo_option" name="menu/logo_option.png" alpha="True"/>
+		<image code="logo_timer" name="menu/logo_timer.png" alpha="True"/>
+		<image code="separator_line" name="menu/separator_line.png" alpha="True"/>
+		<image code="icon_controls" name="menu/icon_controls.png" alpha="True"/>
+		<image code="icon_screen" name="menu/icon_screen.png" alpha="True"/>
+		<image code="icon_sound" name="menu/icon_sound.png" alpha="True"/>
+		<image code="logo_player" name="menu/logo_player.png" alpha="True"/>
+		<image code="check" name="menu/check.png" alpha="True"/>
+		<image code="credits_bar" name="menu/credits_bar.png" alpha="True"/>
+		<image code="credits_bar2" name="menu/credits_bar2.png" alpha="True"/>
+		<image code="new_record" name="menu/new_record.png" alpha="True"/>
+		<!-- MENU CLASIFICAICON -->
+		<image code="classification_winner" name="menu/classification_winner.png" alpha="True"/>
+		<image code="classification_player" name="menu/classification_player.png" alpha="True"/>
+		<image code="classification_bar" name="menu/classification_bar.png" alpha="True"/>
+		<!-- MENU CLASIFICACION CONTRARRELOJ -->
+		<image code="crono_box1" name="menu/crono_box1.png" alpha="True"/>
+		<image code="crono_box2" name="menu/crono_box2.png" alpha="True"/>
+		<image code="crono_box3" name="menu/crono_box3.png" alpha="True"/>
+
+		<!--SLIDER-->
+		<image code="slider_bar" name="menu/slider_bar.png" alpha="True"/>
+		<image code="slider_controler" name="menu/slider_controler.png" alpha="True"/>
+		<!--Coches de los PERSONAJES-->
+		<image code="car1" name="character/car1.png" alpha="True"/>
+		<image code="car2" name="character/car2.png" alpha="True"/>
+		<image code="car3" name="character/car3.png" alpha="True"/>
+		<image code="car4" name="character/car4.png" alpha="True"/>
+		<image code="car5" name="character/car5.png" alpha="True"/>
+		<image code="car6" name="character/car6.png" alpha="True"/>
+		<image code="car7" name="character/car7.png" alpha="True"/>
+		<!--PERSONAJES-->
+		<image code="character2" name="character/character2.png" alpha="True"/>
+		<image code="character1" name="character/character1.png" alpha="True"/>
+		<image code="character3" name="character/character3.png" alpha="True"/>
+		<image code="character4" name="character/character4.png" alpha="True"/>
+		<image code="character5" name="character/character5.png" alpha="True"/>
+		<image code="character6" name="character/character6.png" alpha="True"/>
+		<image code="character7" name="character/character7.png" alpha="True"/>
+		<!--Avatares-->
+		<image code="avatar1" name="character/avatar1.png" alpha="True"/>
+		<image code="avatar2" name="character/avatar2.png" alpha="True"/>
+		<image code="avatar3" name="character/avatar3.png" alpha="True"/>
+		<image code="avatar4" name="character/avatar4.png" alpha="True"/>
+		<image code="avatar5" name="character/avatar5.png" alpha="True"/>
+		<image code="avatar6" name="character/avatar6.png" alpha="True"/>
+		<image code="avatar7" name="character/avatar7.png" alpha="True"/>
+		<!---->
+		<image code="logo_beach" name="menu/logo_beach.png" alpha="True"/>
+		<image code="logo_kitchen" name="menu/logo_kitchen.png" alpha="True"/>
+		<image code="logo_garden" name="menu/logo_garden.png" alpha="True"/>
+		<image code="logo_beach1" name="menu/logo_beach1.png" alpha="True"/>
+		<image code="logo_beach2" name="menu/logo_beach2.png" alpha="True"/>
+		<image code="logo_beach3" name="menu/logo_beach3.png" alpha="True"/>
+		<image code="logo_beach4" name="menu/logo_beach4.png" alpha="True"/>
+		<image code="logo_garden1" name="menu/logo_garden1.png" alpha="True"/>
+		<image code="logo_garden2" name="menu/logo_garden2.png" alpha="True"/>
+		<image code="logo_garden3" name="menu/logo_garden3.png" alpha="True"/>
+		<image code="logo_garden4" name="menu/logo_garden4.png" alpha="True"/>
+		<image code="logo_kitchen1" name="menu/logo_kitchen1.png" alpha="True"/>
+		<image code="logo_kitchen2" name="menu/logo_kitchen2.png" alpha="True"/>
+		<image code="logo_kitchen3" name="menu/logo_kitchen3.png" alpha="True"/>
+		<image code="logo_kitchen4" name="menu/logo_kitchen4.png" alpha="True"/>
+		<!--CIRCUITOS-->
+		<image code="circuit1" name="circuit/circuit1.png" alpha="True"/>
+		<image code="circuit2" name="circuit/circuit2.png" alpha="True"/>
+		<image code="circuit1-beach" name="circuit/circuit1-beach.png" alpha="True"/>
+		<image code="circuit2-beach" name="circuit/circuit2-beach.png" alpha="True"/>
+		<image code="circuit3-beach" name="circuit/circuit3-beach.png" alpha="True"/>
+		<image code="circuit4-beach" name="circuit/circuit4-beach.png" alpha="True"/>
+		<image code="circuit1-garden" name="circuit/circuit1-garden.png" alpha="True"/>
+		<image code="circuit2-garden" name="circuit/circuit2-garden.png" alpha="True"/>
+		<image code="circuit3-garden" name="circuit/circuit3-garden.png" alpha="True"/>
+		<image code="circuit4-garden" name="circuit/circuit4-garden.png" alpha="True"/>
+		<image code="circuit1-kitchen" name="circuit/circuit1-kitchen.png" alpha="True"/>
+		<image code="circuit2-kitchen" name="circuit/circuit2-kitchen.png" alpha="True"/>
+		<image code="circuit3-kitchen" name="circuit/circuit3-kitchen.png" alpha="True"/>
+		<image code="circuit4-kitchen" name="circuit/circuit4-kitchen.png" alpha="True"/>
+		<image code="nodisponible" name="circuit/nodisponible.png" alpha="True"/>
+		<!--JUEGO-->
+		<image code="goal" name="goal.png" alpha="True"/>
+		<image code="particle" name="particle.png" alpha="True"/>
+		<image code="ball_particle" name="ball_particle.png" alpha="True"/>
+		<image code="fire_particle" name="fire_particle.png" alpha="True"/>
+		<image code="hud" name="hud.png" alpha="True"/>
+		<!--Imagen para mortar los items -->
+		<image code="missile_show" name="items/missile_show.png" alpha="True"/>	
+		<image code="oil_show" name="items/oil_show.png" alpha="True"/>
+		<image code="ball_show" name="items/ball_show.png" alpha="True"/>
+		<image code="3missile_show" name="items/3missile_show.png" alpha="True"/>
+		<image code="turbo_show" name="items/turbo_show.png" alpha="True"/>
+		<image code="gum_show" name="items/gum_show.png" alpha="True"/>
+		<image code="image_position1" name="image_position1.png" alpha="True"/>
+		<image code="image_position2" name="image_position2.png" alpha="True"/>
+		<!--Imagen de los controles-->
+		<image code="rows" name="menu/rows.png" alpha="True"/>
+		<image code="letters" name="menu/letters.png" alpha="True"/>
+		<image code="p" name="menu/p.png" alpha="True"/>
+		<image code="esc" name="menu/esc.png" alpha="True"/>
+		<image code="enter" name="menu/enter.png" alpha="True"/>
+		<image code="space" name="menu/space.png" alpha="True"/>
+	</images>
+    <sprites>
+		<!--COCHES-->
+        <sprite code="yellow" name="cars/yellow.png" rows="1" columns="1" alpha="True"/>
+        <sprite code="purple" name="cars/purple.png" rows="1" columns="1" alpha="True"/>
+        <sprite code="orange" name="cars/orange.png" rows="1" columns="1" alpha="True"/>
+        <sprite code="red" name="cars/red.png" rows="1" columns="1" alpha="True"/>
+        <sprite code="truck" name="cars/truck.png" rows="1" columns="1" alpha="True"/>
+        <sprite code="gray" name="cars/gray.png" rows="1" columns="1" alpha="True"/>
+        <sprite code="pink" name="cars/pink.png" rows="1" columns="1" alpha="True"/>
+        <!--ITEMS-->
+        <sprite code="item_box" name="items/item_box.png" rows="6" columns="7" alpha="True"/>
+        <sprite code="missile" name="items/missile.png" rows="1" columns="1" alpha="True"/>
+		<sprite code="oil" name="items/oil.png" rows="1" columns="1" alpha="True"/>
+		<sprite code="gum" name="items/gum.png" rows="1" columns="1" alpha="True"/>
+		<sprite code="ball" name="items/ball.png" rows="1" columns="1" alpha="True"/>
+		<sprite code="explosion" name="items/explosion.png" rows="5" columns="6" alpha="True"/>
+		<!--ANIMACIONES-->
+		<!--sprite code="dragonfly1" name="animations/dragonfly1.gif" rows="7" columns="8" alpha="True"/-->
+		<sprite code="dragonfly1" name="animations/dragonfly1.gif" rows="7" columns="8" alpha="True"/>
+		<sprite code="dragonfly2" name="animations/dragonfly2.gif" rows="10" columns="11" alpha="True"/>
+		<sprite code="butterfly" name="animations/butterfly.gif" rows="7" columns="7" alpha="True"/>
+    </sprites>
+	<fonts>
+		<font code="cheesebu" name="cheesebu.ttf" size="20"/>
+	</fonts>
+	<sounds>
+		<sound code="button-clicked1" name="button-clicked1.wav"/>
+		<sound code="button-clicked2" name="button-clicked2.wav"/>
+		<sound code="button-clicked3" name="button-clicked3.wav"/>
+		<sound code="button-over1" name="button-over1.wav"/>
+		<sound code="button-over2" name="button-over2.wav"/>
+		<sound code="collision1" name="collision1.wav"/>
+		<sound code="countdown" name="countdown.wav"/>
+		<sound code="item_collected" name="item_collected.wav"/>
+		<sound code="missile_explosion" name="missile-explosion.wav"/>
+		<sound code="ball_explosion" name="ball-explosion.wav"/>
+		<sound code="ball_rebound" name="ball-rebound.wav"/>
+		<sound code="yaw" name="yaw.wav"/>
+		<sound code="turbo" name="turbo.wav"/>
+	</sounds>
+</resources>
+
